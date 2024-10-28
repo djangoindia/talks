@@ -1,0 +1,6 @@
+* text=auto
+*.md text=auto
+*.yml text=auto
+*.ini text=auto
+*.py text=auto
+*.rst text=auto
