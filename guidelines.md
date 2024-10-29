@@ -9,7 +9,7 @@ Please note that all talks are licensed under a [Creative Commons Attribution-No
 ## Guidelines for Proposal Submission
 
 ### 1. How We Select Proposals
-We have both 25-minutes (20 minutes for the talk, followed by a 5-minute Q&A) and 5-minutes (lightning) talks in our monthly meetups. Your talk proposal should be **Python-related**. Our audience consists largely of Python beginners, but advanced topics are also welcome if you explain them in a way that's accessible. If your topic requires specific knowledge, **clearly mention any prerequisites** in your proposal.
+We have both 25-minutes (20 minutes for the talk, followed by a 5-minute Q&A) and 5-minutes (lightning) talks in our monthly meetups. Your talk proposal should be **Django or Python-related**. Our audience consists largely of Django beginners, but advanced topics are also welcome if you explain them in a way that's accessible. If your topic requires specific knowledge, **clearly mention any prerequisites** in your proposal.
 
 Even if your idea is still in development, submit a proposal! We're available to provide feedback and suggestions. Don't worry about communication skills or English fluency—our focus is on the content, and we're happy to help you refine your talk.
 
@@ -66,7 +66,7 @@ When discussing code or technical processes, especially when demonstrating live 
 ---
 
 
-**Courtesy**: Bhuvnesh Sharma
+**Courtesy**: DjangoIndia Community
 
 
 Happy contributing!

@@ -1,10 +1,10 @@
-<html lang="en" ng-app="djangoIndiaTalksApp"></html>
+<html lang="en" ng-app="djangoIndiaTalksApp">
   <head>
     <meta charset="UTF-8" />
     <meta http-equiv="x-ua-compatible" content="ie=edge" />
 
     <title>Talks &#8226; djangoIndia</title>
-    <meta name="description" content="Talks at djangoIndia User Group" />
+    <meta name="description" content="Talks at djangoIndia Community" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
 
     <link
@@ -54,10 +54,10 @@
 
     <div class="container">
       <!-- GitHub Fork Ribbon -->
-      <a class="link--fork-on-github" href="https://github.com/djangoIndia.org/talks">
+      <a class="link--fork-on-github" href="https://github.com/djangoindia/talks">
         <img
           style="position: absolute; top: 0; right: 0; border: 0"
-          src="https://djangoIndia.org/assets/images/btn--fork-on-github.png"
+          src="https://djangoindia.org/assets/images/btn--fork-on-github.png"
           alt="Fork me on GitHub"
         />
       </a>
@@ -75,7 +75,7 @@
             </span>
             <input
               class="form-control"
-              placeholder="Search"
+              placeholder="Search talks..."
               type="text"
               ng-model="query"
             />
@@ -98,6 +98,7 @@
                 ng-src="{{youtubeThumbnail(video.videos.youtube)}}"
                 width="100%"
                 ng-click="selectVideo(video)"
+                alt="{{video.title}}"
               />
             </div>
 
