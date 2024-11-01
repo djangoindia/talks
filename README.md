@@ -1,10 +1,10 @@
-# djangoIndia Talks
+# Django India Talks
 
 To propose a talk, simply create a github issue [here][talk_proposal].
 
 
 [talk_proposal]: https://github.com/djangoindia/talks/issues/new?assignees=yednapg&labels=proposal&template=talk_proposal.yaml
-# djangoIndia Talks
+# Django India Talks
 
 To propose a talk, simply create a GitHub issue [here][talk_proposal].
 
@@ -24,7 +24,7 @@ All past talks can be found on our [website](https://djangoindia.org/talks).
 
 ## Code of Conduct
 
-By participating in djangoIndia talks, you agree to abide by our [Code of Conduct](https://djangoindia.org/coc).
+By participating in Django India talks, you agree to abide by our [Code of Conduct](https://djangoindia.org/coc).
 
 ## Contact
 

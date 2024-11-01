@@ -1,5 +1,5 @@
 name: 🎙️ Talk Proposal
-description: Create a proposal for your talk at djangoIndia Monthly Meetups. 
+description: Create a proposal for your talk at Django India Monthly Meetups. 
 labels: ["proposal"]
 body:
   - type: markdown

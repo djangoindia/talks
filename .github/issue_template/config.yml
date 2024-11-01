@@ -1,14 +1,8 @@
 blank_issues_enabled: false
 contact_links:
-  - name: 💬 djangoIndia WhatsApp
-    url: https://chat.whatsapp.com/IUA2o1Xu8w8LmaZ8bw0nbb
-    about: Please use the WhatsApp community to connect with fellow djangoIndia members.
-  - name: 💬 djangoIndia Telegram
-    url: https://t.me/djangoIndia_official
-    about: Please use the Telegram group to connect with the fellow djangoIndia members.
+  - name: 💬 Django India Telegram
+    url: https://t.me/djangoindiaa
+    about: Please use the Telegram group to connect with fellow Pythonistas in and around Delhi/NCR.
   - name: Q/A Forum
-    url: https://github.com/orgs/djangoIndia/discussions
+    url: https://github.com/orgs/pydelhi/discussions
     about: Use the forum to ask questions about the meetup, help us with Sponsorship, or anything else.
-  - name: djangoIndia Website
-    url: https://djangoindia.org
-    about: Visit the website to know more about djangoIndia.

@@ -66,7 +66,7 @@ When discussing code or technical processes, especially when demonstrating live 
 ---
 
 
-**Courtesy**: DjangoIndia Community
+**Courtesy**: Django India Community
 
 
 Happy contributing!
