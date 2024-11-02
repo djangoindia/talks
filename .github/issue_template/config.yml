@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 💬 Django India Telegram
+    url: https://t.me/djangoindiaa
+    about: Please use the Telegram group to connect with fellow Djangonauts in India.
+  - name: Django India Discord
+    url: https://discord.com/invite/YrmYTTBspe
+    about: Please use the Discord group to discuss Django-related topics and get help from the community.
+  - name: Django India LinkedIn
+    url: https://www.linkedin.com/company/django-india/
+    about: Connect with us on LinkedIn for updates and community engagement.
