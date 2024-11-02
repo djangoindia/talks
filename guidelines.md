@@ -23,7 +23,7 @@ We start reviewing proposals as soon as they come in, so the earlier you submit,
 If your talk requires prior knowledge or preparation, make sure to **state this clearly** in your proposal. Providing links to additional resources or reading material can also help the audience better prepare for your talk.
 
 ### 5. Follow the Code of Conduct
-We have a strict [**Code of Conduct**] that all speakers and participants must follow. Please take a moment to review it before submitting your proposal. Our community is committed to being welcoming, inclusive, and respectful, and we expect the same from all participants. Any form of derogatory or exclusionary language is not tolerated.
+We have a strict [**Code of Conduct**](https://github.com/djangoindia/djangoindia.org/blob/main/CODE_OF_CONDUCT.md) that all speakers and participants must follow. Please take a moment to review it before submitting your proposal. Our community is committed to being welcoming, inclusive, and respectful, and we expect the same from all participants. Any form of derogatory or exclusionary language is not tolerated.
 
 ---
 
@@ -39,19 +39,19 @@ For lightning talks (5 minutes), focus on sparking curiosity rather than coverin
 ### 2. Keep the Session Interactive
 Engagement is key. Make your presentation interactive by asking questions, encouraging participation, or conducting small activities throughout the talk. You can use tools for audience interaction to gather real-time feedback or conduct polls.
 
-#### A. Use Real-Life Examples
+- **Use Real-Life Examples**
 Simplify complex ideas by using real-life examples or analogies. This makes technical concepts easier to understand and more relatable to the audience. You can also stick to one motivating example that you can refer to throughout your talk. This helps maintain audience engagement and creates a clear narrative that ties all your points together.
 
-#### B. Make the Presentation Visually Engaging
+- **Make the Presentation Visually Engaging**
 Avoid text-heavy slides. Use visuals, diagrams, or videos to illustrate your points. Keep slide text to a minimum (4-5 lines max) and use images to support your message. Visual content helps convey information more effectively than blocks of text.
 
-#### C. Add Humour Thoughtfully
+- **Add Humour Thoughtfully**
 A well-timed joke or light comment can lighten the mood and help you connect with the audience really fast. However, make sure that your humour is appropriate and relevant to the context.
 
-#### D. Having Code in Your Talk/Slides
+- **Having Code in Your Talk/Slides**
 If done well, please include it. Otherwise, it could overwhelm the audience, as real-time tutorials during talks are usually not recommended by many. However, meetups are a safe space where you can try new things without judgment. We are very open to people experimenting with different formats and styles at our meetups.
 
-#### E. Include Hooks to Encourage Conversation
+- **Include Hooks to Encourage Conversation**
 Add points/hooks in your talk that will encourage the audience to approach you after the talk for further discussion. This not only adds value to your talk but also creates opportunities for networking and deeper engagement with attendees.
 
 ### 3. Use the Stage to Your Advantage
@@ -65,8 +65,5 @@ When discussing code or technical processes, especially when demonstrating live 
 
 ---
 
-
-**Courtesy**: Django India Community
-
-
 Happy contributing!
+Credits: [PyDelhi talks guidelines](https://github.com/pydelhi/talks/blob/master/guidelines.md)
