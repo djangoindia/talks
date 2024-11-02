@@ -11,7 +11,7 @@ body:
     attributes:
       label: Title
       description: Please share the title of your talk
-      placeholder: For E.g, Introduction to Machine Learning with Python
+      placeholder: For E.g, What is "batteries included" in django?
     validations:
       required: false
   - type: textarea
